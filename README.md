@@ -43,5 +43,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
+<a href="https://github-readme-stats.vercel.app/api?username=Swathijonna"></a>
 
 ###
