@@ -1,10 +1,10 @@
 <p align="left">Hi there 👋<br>I'm Swathi, a Curious Coder deeply immersed in the realms of Data analysis,Engineering and Science.As an Analysis Explorer, I thrive on deciphering the stories told by data.Armed with a passion for crafting elegant code, I embark on the journey of Data Engineering, where pipelines come to life and transform raw data into valuable insights.In the parallel world of Data Science, my curiosity takes me on a scientific quest, seeking patterns, trends, and answers to complex questions. I find joy in turning hypotheses into experiments and experiments into knowledge, constantly pushing the boundaries of what's possible.</p>
 
-###
+
 
 <p align="left">Skills</p>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -43,6 +43,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
-<a href="https://github-readme-stats.vercel.app/api?username=Swathijonna"></a>
 
-###
+
